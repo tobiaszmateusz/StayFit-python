@@ -1,0 +1,1 @@
+{"minStartTimeNs": "1607295600000000000", "maxEndTimeNs": "1607418175000000000", "dataSourceId": "derived:com.google.weight:com.google.android.gms:merge_weight", "point": []}
